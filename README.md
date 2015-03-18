@@ -6,3 +6,5 @@ Video downloaded from pudn.com
 
 To use this program, just type make in command line.
 Program command line arguments have been explained inside Main.cpp.
+
+For instance: ./Background 1 30 Video.avi to use first 30 frames as reference and process Video.avi video file
